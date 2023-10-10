@@ -106,7 +106,7 @@ Click "Jane Doe".
 <img src="https://i.imgur.com/5bnfHFX.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Click "Access" tab, add Jane Doe to "Support", select "Supreme Admin", and click "Save Changes". Click log out at the top right of the page.
+Click the "Access" tab, add Jane Doe to "Support", select "Supreme Admin", and click "Save Changes". Click log out at the top right of the page.
 
 <p align="center">
 <img src="https://i.imgur.com/YditKcY.png" height="80%" width="80%" alt="img"/>
@@ -114,22 +114,203 @@ Click "Access" tab, add Jane Doe to "Support", select "Supreme Admin", and click
 
 Let's log back in as Jane Doe.
 
+<p align="center">
+<img src="https://i.imgur.com/47Ro7m3.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Jane Doe is now able to see the tickets we created as end users.
 
+Let's observe the tickets and make some changes to them.
 
+<p align="center">
+<img src="https://i.imgur.com/Czo2HfA.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Click the "Mobile banking is experiencing an outage" ticket.
 
+<p align="center">
+<img src="https://i.imgur.com/Czo2HfA.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Let's change it's priority. Click "Normal".
 
+<p align="center">
+<img src="https://i.imgur.com/ki8W9Z9.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Change the priority level to "Emergency", and click "Update".
 
+<p align="center">
+<img src="https://i.imgur.com/OtBq7IN.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Click "Unassigned".
 
+<p align="center">
+<img src="https://i.imgur.com/5N5wQy1.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Assign it to Jane Doe, and click "Assign".
 
+<p align="center">
+<img src="https://i.imgur.com/hrMZmzu.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Click "Default SLA".
 
+<p align="center">
+<img src="https://i.imgur.com/Yn57TWU.png" height="80%" width="80%" alt="img"/>
+</p>
 
+Select "SEV-A", write some notes, and click "Update".
+
+<p align="center">
+<img src="https://i.imgur.com/K3qFKZQ.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Click "Support" 
+
+<p align="center">
+<img src="https://i.imgur.com/eGHMB41.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Select "System Administrators", write some notes, and click "Transfer".
+
+<p align="center">
+<img src="https://i.imgur.com/P75b28P.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Write some notes, click "Post Reply", and click the "Tickets" tab at the top.
+
+<p align="center">
+<img src="https://i.imgur.com/rM9HAxo.png" height="80%" width="80%" alt="img"/>
+</p>
+
+As shown in the image above, the ticket has been assigned to Jon Does, and the priority has change.
+
+Let's close the ticket by clicking it.
+
+<p align="center">
+<img src="https://i.imgur.com/edFAAbd.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Update the note, select "Closed", and click "Post Reply".
+
+<p align="center">
+<img src="https://i.imgur.com/56dAiyz.png" height="80%" width="80%" alt="img"/>
+</p>
+
+As shown in the image above, the ticket is no longer on our list of open tickets.
+
+Let's work on the "Adobe Reader is down" ticket. Click on it.
+
+<p align="center">
+<img src="https://i.imgur.com/KFBsZAA.png" height="80%" width="80%" alt="img"/>
+</p>
+
+As shown in the image above, change the priority to "High". Assign it to John Wood, and change the SLA to SEV-B.Write some notes and click "Post Reply".
+
+<p align="center">
+<img src="https://i.imgur.com/kNU7BMP.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Click on the "When are we getting a hardware refresh" ticket.
+
+As shown in the image above, change priority to "Low", assign it to Jane Doe, change SLA to SEV-C. Write some notes, mark it as "Resolved", and click "Post Reply".
+
+<p align="center">
+<img src="https://i.imgur.com/tQpWbqo.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Now, we only have one ticket left. In order to work on the ticket, we need to sign in as John Wood, since it's assigned to him. Click the "Log out" tab at the top right of the page. 
+
+<p align="center">
+<img src="https://i.imgur.com/s84mThN.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Log in as John Wood.
+
+<p align="center">
+<img src="https://i.imgur.com/09XSRnR.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Click on the ticket.
+
+<p align="center">
+<img src="https://i.imgur.com/w9uGVLV.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Update the note. Click "Post Note", and click the "Log Out" tab at the top right.
+
+In order to close the ticket, we need to login as Admin and give John permission to close his own ticket.
+
+<p align="center">
+<img src="https://i.imgur.com/YhVxzSf.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Let's log in as Admin, so that we can close the ticket.
+
+<p align="center">
+<img src="https://i.imgur.com/lSqVxm3.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Click "Admin Panel".
+
+<p align="center">
+<img src="https://i.imgur.com/o1vv6pc.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Move your cursor to the "Agents" tab and click "Departments".
+
+<p align="center">
+<img src="https://i.imgur.com/tRN50Dd.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Click "Support".
+
+<p align="center">
+<img src="https://i.imgur.com/r5l59di.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Click "Access".
+
+<p align="center">
+<img src="https://i.imgur.com/NXZ5f2M.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Select "Supreme Admin", select "All Access", click "Save Changes", and log out.
+
+<p align="center">
+<img src="https://i.imgur.com/oSNxk9T.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Let's log back in as John Wood.
+
+<p align="center">
+<img src="https://i.imgur.com/OvLAbcA.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Open the ticket by clicking on it.
+
+<p align="center">
+<img src="https://i.imgur.com/GOlBXy9.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Write some notes, select "Resolved", and click "Post Reply".
+
+<p align="center">
+<img src="https://i.imgur.com/KDGwW81.png" height="80%" width="80%" alt="img"/>
+</p>
+
+We no longer have any open tickets
+
+<p align="center">
+<img src="https://i.imgur.com/HXC4pWn.png" height="80%" width="80%" alt="img"/>
+</p>
+
+Click "Closed" to see all our closed tickets.
+
+Congrats, you made it to the end :)
 
 
 
