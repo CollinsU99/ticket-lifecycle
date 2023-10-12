@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket: Post-Install Configuration</h1>
-This tutorial provides a step-by-step guide to the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
+This lab provides a step-by-step guide to the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
 
 <h2>Environments and Technologies Used</h2>
 
